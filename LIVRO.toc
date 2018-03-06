@@ -1,0 +1,11 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Kooperation}{7}
+\contentsline {section}{1. Doppelter Ursprung der Manufaktur}{7}
+\contentsline {subsection}{Die Manufaktur entspringt auf doppelte Weise.}{7}
+\contentsline {section}{2. Der Teilarbeiter und sein Werkzeug}{10}
+\contentsline {section}{3. Die beiden Grundformen der Manufaktur -}{13}
+\contentsline {section}{4. Teilung der Arbeit innerhalb der Manufaktur}{21}
+\contentsline {section}{5. Der kapitalistische Charakter der Manufaktur}{29}
+\contentsline {section}{Fußnoten}{37}
+\contentsfinish 
